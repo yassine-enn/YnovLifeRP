@@ -1,0 +1,1 @@
+D:\YnovLifeRP\FXServer.exe +exec server.cfg
